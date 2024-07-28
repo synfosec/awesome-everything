@@ -1,0 +1,3 @@
+[submodule "AI/awesome-ai"]
+	path = AI/awesome-ai
+	url = https://github.com/f/awesome-chatgpt-prompts.git
